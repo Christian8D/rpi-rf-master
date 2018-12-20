@@ -13,7 +13,7 @@ setup(
     author_email='christian.cosio1@gmail.com',
     description='Sending and receiving 433/315MHz signals with low-cost GPIO RF modules on a Raspberry Pi',
     long_description=long_description,
-    url='https://github.com/milaq/rpi-rf',
+    url='https://github.com/Christian8D/rpi-rf-master.git',
     license='BSD',
     classifiers=[
         'Development Status :: 4 - Beta',
